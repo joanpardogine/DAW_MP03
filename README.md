@@ -21,7 +21,7 @@
 [Full activitats pseudo-codi (SOLUCIONS)](https://docs.google.com/document/d/1HvzCBsIWF8HvXbznZqocc3QY_PkEzWuDhVrMXMVT-lI/edit?usp=sharing)
 
 ### Correcció 2a activitat avaluable
-ECLIPSE 2019/20](https://www.eclipse.org/downloads/)
+[ECLIPSE 2019/20](https://www.eclipse.org/downloads/)
 [Java SE 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
 
 ### Exercicis a classe. Bucles
