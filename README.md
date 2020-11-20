@@ -7,6 +7,7 @@
 
 ### Introducció programació estructurada
 [Introducció a la programació estructurada](https://docs.google.com/presentation/d/1aBf4VnCOZgechnJjN3sXN_2QyUyr7Kaw8hkxWhokgZk/edit?usp=sharing)
+
 [Algorísmica](https://docs.google.com/presentation/d/1Ei9mPfojzUbFrE8Bai3403PG8Sxn9OymbTVNz05sNmc/edit?usp=sharing)
 
 
@@ -22,10 +23,12 @@
 
 ### Correcció 2a activitat avaluable
 [ECLIPSE 2019/20](https://www.eclipse.org/downloads/)
+
 [Java SE 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
 
 ### Exercicis a classe. Bucles
 [Vídeo correció exercici 27](https://drive.google.com/file/d/1QpwXQSmnoJztXRNn9TTeG7gvYTKVittx/view?usp=sharing)
+
 [Vídeo correcció exercici 34](https://drive.google.com/file/d/1EL3GS7HEWEuOR9SKt5ZR8t0YG_pJOAXx/view?usp=sharing)
 
 [Projecte Tic-Tac-Toe](https://ginebro.clickedu.eu/private/clickedu.ginebro.cat/arxius/assignatures/1368/TicTacTocProject.rar)
